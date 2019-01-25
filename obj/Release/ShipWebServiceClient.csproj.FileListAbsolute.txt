@@ -1,0 +1,8 @@
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe.config
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Release\ShipWebServiceClient.exe
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Release\ShipWebServiceClient.XmlSerializers.dll
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\bin\Release\ShipWebServiceClient.pdb
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Release\ShipWebServiceClient.csproj.CoreCompileInputs.cache
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Release\ShipWebServiceClient.exe
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Release\ShipWebServiceClient.pdb
+E:\ShipService_v23_cs\ShipService_v23_cs\ShipService_v23_cs\cs\ShipWebServiceClient\Express\Domestic\ShipWebServiceClient\obj\Release\ShipWebServiceClient.XmlSerializers.dll
